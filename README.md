@@ -12,11 +12,11 @@ python main.py -i path_to_input_file -o output_file_name -w width_of_image -h he
 
 ### Input image
 
-[Input Image](input.JPG)
+![Input Image](input.JPG)
 
 ### Output text file
 
-[Output File](output.png)
+![Output File](output.png)
 
 ## Requirements
 
