@@ -4,9 +4,9 @@ Generates a prime number from a passed in image file
 
 ## Usage
 
-`bash
+```bash
 python main.py -i path_to_input_file -o output_file_name -w width_of_image -h height_of_image
-`
+```
 
 ## Example
 
